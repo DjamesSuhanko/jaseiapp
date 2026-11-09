@@ -1,0 +1,10 @@
+{
+  "repository": "DjamesSuhanko/jaseiapp",
+  "domain": "jasei.clavesol.com.br",
+  "title": "JaSei",
+  "description": "JaSei é uma ferramenta para estudo de tonalidades e progressão harmônica de forma divertida.",
+  "author": "Djames Suhanko",
+  "email": "djames.suhanko@gmail.com",
+  "logo": "app-logo.png",
+  "privacy_ready": true
+}
